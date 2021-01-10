@@ -1,0 +1,21 @@
+site_name: Nosso Cafofo
+
+nav:
+  - Início: index.md
+  - Design:
+    - Cores: design/colors.md
+
+theme:
+  name: material
+  language: pt
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+
+repo_name: Nosso-Cafofo/docs
+repo_url: https://github.com/Nosso-Cafofo/docs
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Nosso-Cafofo
